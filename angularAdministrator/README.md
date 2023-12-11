@@ -1,19 +1,20 @@
-# Administrador en Angular
+<h1 align="center">  Administrador en Angular </h1>
 
-# Entrega 1 “Componentes Belisario”.
+<h1 align="center"> Entrega 1 📃“Componentes Belisario”.</h1>
 
-Consigna:
+<h2 align="left">Consigna:</h2>
 
-    Crear un layout general con menú a la izquierda, un toolbar y un área de contenido. Cada uno de los apartados del layout será un componente independiente y tendrá su propia hoja de estilos y contenido html. Todos ellos integrados en el app.component.html
+Crear un layout general con menú a la izquierda, un toolbar y un área de contenido. Cada uno de los apartados del layout será un componente independiente y tendrá su propia hoja de estilos y contenido html. Todos ellos integrados en el app.component.html
 
-Aspectos a incluir:
+<h2 align="left">Aspectos a incluir:</h2>
 
-    Se espera la entrega de un proyecto configurado funcional utilizando creación de componentes. Se valorará la utilización de la librería bootstrap para la colocación de los componentes.
+Se espera la entrega de un proyecto configurado funcional utilizando creación de componentes. Se valorará la utilización de la librería bootstrap para la colocación de los componentes.
 
-> [!NOTE] Formato:
-> Se debe entregar un proyecto con el formato ANGULAR-CLI. Lo vamos a nombrar como  “Componentes+Apellido”. 
+<h2 align="left">Formato:</h2>
 
-Sugerencias:
+Se debe entregar un proyecto con el formato ANGULAR-CLI. Lo vamos a nombrar como  “Componentes+Apellido”. 
+
+<h2 align="left">Sugerencias:</h2>
 
 - Utiliza ANGULAR-CLI para generar un proyecto con componentes personalizados.
 
